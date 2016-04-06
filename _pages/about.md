@@ -4,13 +4,22 @@ title: About
 permalink: /about/
 ---
 
-## Hello World!
---
+## I'm a software developer
+---
 
-Aenean praesentium dolore aenean qui nesciunt dictumst molestiae, odit irure. Nesciunt fusce, atque pharetra odio quis quaerat accusantium? Integer aspernatur eligendi facilisis, do sodales. Consequat.
+My biggest passion in life is to create great products for real people (and for fun of course).
 
-Arcu porro faucibus ante! Unde litora voluptate veniam fugit alias. Sociosqu! Augue, cupidatat excepturi laoreet magnis veniam repudiandae impedit venenatis alias iure ad ab! Enim.
+I like exploring new things and experiences.
 
-Nibh quia necessitatibus omnis! Nemo nascetur penatibus iste morbi. Nisi, consequat! Rutrum. Quasi elementum, dignissim cillum, cubilia sapien vitae officia porta hendrerit. Mi aut recusandae.
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
-Voluptatem sint. Sapiente porttitor vivamus sequi occaecat litora? Conubia molestias nostrud dicta quisque penatibus minim imperdiet? Aspernatur nostra doloribus nibh curae ac? Nobis quas? Sollicitudin.
+Currently I'm working at [FinReach](http://finreach.de) making banking services better.
+
+What to cover here:
+
+1. Some history - university, enterprise (AT Consulting), startup, side projects
+2. Technologies I know and like (Ruby on Rails, Javascript, Angular, Java)
+3. Side projects as part of my exploration passion
+4. What I strive to learn (from Java to Ruby to Nodejs, React, Meteor, Express)
+5. My tools (macbook pro, notepad, rubymine/atom)
+6. At the moment I: Finreach, hamster travel, new projects coming soon
