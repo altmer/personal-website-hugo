@@ -1,3 +1,4 @@
 main:
-    - { url: '/', text: 'Projects' }
+    - { url: '/', text: 'My projects' }
+    - { url: '/tools', text: 'My favourite tools' }
     - { url: '/about', text: 'About me' }
