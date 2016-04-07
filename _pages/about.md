@@ -7,19 +7,34 @@ permalink: /about/
 ## I'm a software developer
 ---
 
+What to cover here:
+
+1. [] Some history - university, enterprise (AT Consulting), startup, side projects
+2. [] Technologies I know and like (Ruby on Rails, Javascript, Angular, Java)
+3. [] Side projects as part of my exploration passion
+4. [] What I strive to learn (from Java to Ruby to Nodejs, React, Meteor, Express)
+5. [] My tools (macbook pro, notepad, rubymine/atom)
+6. [] At the moment I: Finreach, hamster travel, new projects coming soon
+---
+
+*Ruby on Rails* stays the main technology in my stack for some time. Though I don't actively develop in *Java*
+at the moment, I did not forget it completely and can easily create microservices with *Spring*.
+
+I have experience with *Elasticsearch* ...
+---
 My biggest passion in life is to create great products for real people (and for fun of course).
 
 I like exploring new things and experiences.
+---
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+At the moment I am:
 
-Currently I'm working at [FinReach](http://finreach.de) making banking services better.
+- working at [FinReach](http://finreach.de) making banking services better
+- developing [Hamster Travel](http://hamster.travel) as my side project
+- learning React and Javascript backend development
+- some other projects to be announced soon
 
-What to cover here:
+---
+## My favourite working tools
 
-1. Some history - university, enterprise (AT Consulting), startup, side projects
-2. Technologies I know and like (Ruby on Rails, Javascript, Angular, Java)
-3. Side projects as part of my exploration passion
-4. What I strive to learn (from Java to Ruby to Nodejs, React, Meteor, Express)
-5. My tools (macbook pro, notepad, rubymine/atom)
-6. At the moment I: Finreach, hamster travel, new projects coming soon
+![table photo](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
