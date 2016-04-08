@@ -17,7 +17,7 @@ To take a next step of my life and career, I moved to Berlin for its inspiration
 
 I like exploring and learning something new. [Travelling](https://www.tripadvisor.co.uk/members/altmer) is my second passion in life. That's why my biggest side project is a [travel planning app](http://hamster.travel) for me and my friends (and hopefully for other travellers in the future). I am trying to spend some time every day developing side projects to learn, to expand my horizons and to create something cool.
 
-**Ruby on Rails** stays the main technology in my stack for some time. Though I don't actively develop in **Java**
+**Ruby on Rails** is the main technology in my stack for some time already. Though I don't actively develop in **Java**
 at the moment, I have some experience with it and can create web apps and/or microservices with **Spring**.
 My default database of choice is **Postgresql**, but I have also used **MongoDB** and **Redis** in number of projects.
 I use **Angular** as a frontend JS framework, in my projects but now I am switching to **React**. Currently I am
