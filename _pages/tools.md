@@ -24,6 +24,6 @@ permalink: /tools/
 
 **Clouds:** All my projects are happily hosted on [Digital Ocean](https://www.digitalocean.com/) servers. I use [AWS](https://aws.amazon.com) as a storage for file uploads. [Heroku](https://www.heroku.com/) is great for hosting prototypes.
 
-**Version control:** [Git](https://git-scm.com/) is my favourite version control system and all my code is hosted on [Github](https://github.com/altmer).
+**Version control:** [Git](https://git-scm.com/) is my favorite version control system and all my code is hosted on [Github](https://github.com/altmer).
 
 **Mockups:** I do my mockups in [Balsamiq](https://balsamiq.com/) and I use [Lingo](https://www.lingoapp.com/) to store and search my visual assets.
