@@ -1,7 +1,7 @@
 # Site Settings
 title: "Andrey Marchenko"
 description: "Software developer and passionate traveller from Berlin exploring the world and creating (awesome) stuff."
-url: 'http://127.0.0.1:4000' # the base hostname & protocol for your site
+url: 'http://amarchenko.de' # the base hostname & protocol for your site
 nav: "true"
 footer_text: '© 2016 Andrey Marchenko <br/> Phantom jekyll theme by Jami Gibbs'
 github: 'altmer'
