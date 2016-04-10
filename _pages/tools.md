@@ -7,7 +7,7 @@ permalink: /tools/
 ## My work setup
 ---
 
-![my workspace](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![my workspace](/img/workspace.jpg)
 
 **Hardware:** [iMac 27"](http://www.apple.com/imac/), [MacBook Pro 15"](http://www.apple.com/macbook-pro/), notepad.
 
