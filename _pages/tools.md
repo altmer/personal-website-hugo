@@ -13,7 +13,7 @@ permalink: /tools/
 
 **Text editors:** I use [RubyMine](https://www.jetbrains.com/ruby/) for Rails development and awesome [Atom](https://atom.io/) for almost everything else (this text is written in Atom).
 
-**Project and time management:** [Trello](https://trello.com) has all my Kanban boards, [ProductBoard](https://productboard.com) to keep track of features and ideas and [OmniFocus](https://www.omnigroup.com/omnifocus) to organize my life.
+**Project and time management:** [Trello](https://trello.com) has all my Kanban boards, [ProductBoard](https://www.productboard.com/) to keep track of features and ideas and [OmniFocus](https://www.omnigroup.com/omnifocus) to organize my life.
 
 **Notes**: [Dropbox Paper](https://paper.dropbox.com/) to grasp and brainstorm ideas quickly, [Alternote](http://alternoteapp.com/) to keep everything important at hand and [SnippetsLab](https://www.renfei.org/snippets-lab/) to store reusable code snippets and configs.
 
