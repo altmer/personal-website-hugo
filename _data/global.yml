@@ -1,6 +1,6 @@
 # Site Settings
 title: "Andrey Marchenko"
-description: "Software developer and passionate traveller from Berlin exploring the world and creating (awesome) stuff."
+description: "Software developer and passionate traveller from Berlin exploring the world and creating stuff."
 url: 'http://amarchenko.de' # the base hostname & protocol for your site
 nav: "true"
 footer_text: '© 2016 Andrey Marchenko <br/> Phantom jekyll theme by Jami Gibbs'
