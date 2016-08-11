@@ -5,7 +5,7 @@ url: 'http://amarchenko.de' # the base hostname & protocol for your site
 nav: "true"
 footer_text: '© 2016 Andrey Marchenko <br/> Phantom jekyll theme by Jami Gibbs'
 github: 'altmer'
-resume: 'https://standardresume.co/AndreyMarchenko'
+resume: '/resume'
 linkedin: 'anvmarchenko'
 twitter: ''
 medium: ''

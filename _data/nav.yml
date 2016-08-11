@@ -2,3 +2,4 @@ main:
     - { url: '/', text: 'My projects' }
     - { url: '/about', text: 'About me' }
     - { url: '/tools', text: 'My work setup' }
+    - { url: '/resume', text: 'CV' }
