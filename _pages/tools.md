@@ -23,7 +23,7 @@ Also I use [OmniFocus](https://www.omnigroup.com/omnifocus) and [Wunderlist](htt
 **Development environments:**  I use [Vagrant](https://www.vagrantup.com/) in order to keep my development environments (provisioned by [Ansible](https://www.ansible.com/)) in sync.
 
 **Operations:** All my projects are built as [Docker](https://www.docker.com/) images and deployed to [Digital Ocean](https://www.digitalocean.com/) servers with [Ansible](https://www.ansible.com/) scripts.
-[AWS S3](https://aws.amazon.com/s3/) is the file storage for my projects.
+[AWS S3](https://aws.amazon.com/s3/) is used as the file storage.
 
 **Version control:** [Git](https://git-scm.com/) is my favorite version control system and all my code is hosted on [Github](https://github.com/altmer).
 

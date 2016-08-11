@@ -13,7 +13,7 @@ Location: Berlin, Germany
 
 E-Mail: anvmarchenko@gmail.com
 
-Enthusiastic web developer with experience in enterprise, startups and open source projects. I enjoy solving challenging tasks and creating great products making peoples' life better. Being a fan of reliable and easy-to-change projects, I strive to make the code in my projects as clean and tested as possible. Besides my main work, I develop my side project in which my passions for travel and creation are combined.
+Enthusiastic web developer with experience in enterprise, startups and open source projects. I enjoy solving challenging tasks and creating great products making peoples' life better. Being a fan of reliable and easy-to-change projects, I strive to make the code in my projects as clean and tested as possible. Besides my main work I develop my side project in which my passions for travel and creation are combined.
 
 ### Keywords
 
