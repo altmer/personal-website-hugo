@@ -2,7 +2,7 @@
 layout: inner
 position: right
 title: 'DOCXRails'
-date: 2016-04-05 18:22:00
+date: 2016-01-01 18:22:00
 categories: development
 tags: Ruby Rails DOCX XML Office
 featured_image: 'img/posts/docx-erb.png'
