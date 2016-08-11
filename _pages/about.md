@@ -28,7 +28,10 @@ I can freely communicate in **English** and **Russian** and learning **German**.
 
 At the moment I am:
 
-- working at [FinReach](http://finreach.de) and making banking services better;
-- developing side projects: [Hamster Travel](http://hamster.travel), [Hamster's Backpack](http://hamsters-backpack.com/en) and others to be announced;
-- learning React, Elixir and Phoenix;
-- travelling as much as possible.
+* working at [FinReach](http://finreach.de) and making banking services better;
+
+* developing side projects: [Hamster Travel](http://hamster.travel), [Hamster's Backpack](http://hamsters-backpack.com/en) and others to be announced;
+
+* learning React, Elixir and Phoenix;
+
+* travelling as much as possible.

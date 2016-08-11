@@ -1,11 +1,4 @@
----
-layout: inner
-title: Resume
-permalink: /resume/
----
-
 # Andrey Marchenko
----
 
 **Senior backend developer**
 
@@ -78,7 +71,7 @@ National medical registry allows patients in Russia to book doctor appointments 
 
 **[State services portal](http://gosuslugi.ru)**
 
-Gosuslugi.ru is main online entry point for receiving state services in Russian Federation. I developed client forms using Java and Spring MVC and performed troubleshooting of production environment issues.
+Gosuslugi.ru is the main online entry point for receiving state services in Russian Federation. I developed client forms using Java and Spring MVC and performed troubleshooting of production environment issues.
 
 ### Education
 

@@ -36,6 +36,7 @@ body {
   background-color: #e9edf0;
   @extend %opensans;
   -webkit-font-smoothing: antialiased;
+  font-size: 16px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -49,7 +50,6 @@ article {
 
 p {
   line-height: 1.8;
-  font-size: 1.3em;
 }
 
 a {
@@ -334,16 +334,6 @@ button.btn, input.btn {
 }
 
 /* customization styles */
-
-.inner-text {
-  ul {
-    li {
-      margin-top: 0.25em;
-      margin-bottom: 0.25em;
-      font-size: 1.3em;
-    }
-  }
-}
 
 img {
   max-width: 100%;
