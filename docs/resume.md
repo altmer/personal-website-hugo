@@ -1,6 +1,6 @@
 # Andrey Marchenko
 
-**Senior backend developer**
+**Senior full-stack developer**
 
 Location: Berlin, Germany
 
