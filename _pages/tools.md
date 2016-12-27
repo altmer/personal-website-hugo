@@ -11,12 +11,12 @@ permalink: /tools/
 
 **Hardware:** [iMac 27"](http://www.apple.com/imac/), [MacBook Pro 15"](http://www.apple.com/macbook-pro/), notepad.
 
-**Text editors:** I use [RubyMine](https://www.jetbrains.com/ruby/) for Rails development and awesome [Atom](https://atom.io/) for almost everything else (this text is written in Atom).
+**Text editors:** I use [Atom](https://atom.io/) as the main editor in my toolbelt.
 
 **Project and life management:** [Trello](https://trello.com) has all my Kanban boards, features, ideas and user feedback.
-Also I use [OmniFocus](https://www.omnigroup.com/omnifocus) and [Wunderlist](https://www.wunderlist.com/) to organize my life in general.
+Also I use [Wunderlist](https://www.wunderlist.com/) to organize my life in general.
 
-**Notes**: [Dropbox Paper](https://paper.dropbox.com/) is to grasp and brainstorm ideas quickly, [Alternote](http://alternoteapp.com/) to keep everything important at hand and [SnippetsLab](https://www.renfei.org/snippets-lab/) to store reusable code snippets and configs.
+**Notes**: Beautiful [Bear](http://www.bear-writer.com/) app is to keep ideas and brainstorming.  [SnippetsLab](https://www.renfei.org/snippets-lab/) to store reusable code snippets and configs.
 
 **Communication and collaboration:** [Slack](https://slack.com/) is the center of all my work-related communication, [Telegram](https://telegram.org/) is for staying in touch with family and friends.
 
