@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: right
+position: left
 title: 'DOCXRails'
 date: 2016-01-01 18:22:00
 categories: development
