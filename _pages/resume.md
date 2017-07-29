@@ -14,21 +14,16 @@ E-Mail: anvmarchenko@gmail.com
 
 Full-stack developer with 6 years of experience both in enterprise and startup areas. I enjoy solving challenging tasks and creating great products making peoples' life better. I have successful experience performing full cycle of project development from requirements to production setup.
 
-My favourite tools to date are Ruby on Rails for backend, react/redux for frontend, docker and ansible for devops. Also I have experience with Angularjs, jQuery, vanilla JS on frontend and Java (Spring framework) on backend. Currently I learn Elixir language and Phoenix framework and feel really excited about it.
-
-Besides my main work I develop my side project ( [Hamster Travel](http://hamster.travel/) ) in which my passions for travel and creation are combined.
-
 ### Keywords
-* Ruby on Rails (RSpec, Capybara), linting (rubocop)
 * Elixir/Phoenix
-* Javascript, ES6, eslint, Angularjs, React, HTML5, CSS3
-* Java (Spring Boot, Spring Data)
+* Ruby on Rails (RSpec, Capybara), linting (rubocop)
+* Javascript, ES6, eslint, React, HTML5, CSS3
+* Clojure
 * Postgresql, Mongodb
 * Elasticsearch
 * Docker, Ansible
 * Logging: ELK stack, rollbar
 * Monitoring: Datadog, New Relic
-* Vagrant
 * Git
 
 ### Languages
@@ -40,7 +35,7 @@ Besides my main work I develop my side project ( [Hamster Travel](http://hamster
 
 **[FinReach](http://finreach.de), Senior full-stack developer**
 
-_January 2015 - present_
+_January 2015 - July 2017_
 
 As one of the first developers in the company performed full cycle of development for several company's internal and external products. The most notable project is automated bank account switch kit, which is one of the most innovative and modern products in banking area in Germany.
 
